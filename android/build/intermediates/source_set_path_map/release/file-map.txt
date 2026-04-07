@@ -1,0 +1,16 @@
+ru.samsung.gamestudio.android-core-1.8.0-0 C:\Users\MrCommand\.gradle\caches\transforms-3\04d714687fba89380c645dca8eb3cec5\transformed\core-1.8.0\res
+ru.samsung.gamestudio.android-lifecycle-livedata-core-2.5.1-1 C:\Users\MrCommand\.gradle\caches\transforms-3\169706b08af78011c1fce6706ae2ebc9\transformed\lifecycle-livedata-core-2.5.1\res
+ru.samsung.gamestudio.android-fragment-1.5.7-2 C:\Users\MrCommand\.gradle\caches\transforms-3\17733469605d6d4f502c59620c729e19\transformed\fragment-1.5.7\res
+ru.samsung.gamestudio.android-activity-1.5.1-3 C:\Users\MrCommand\.gradle\caches\transforms-3\270967857a07d2d6d7457ce2e2ecc833\transformed\activity-1.5.1\res
+ru.samsung.gamestudio.android-savedstate-1.2.0-4 C:\Users\MrCommand\.gradle\caches\transforms-3\33d9952f45962730e86547a457302708\transformed\savedstate-1.2.0\res
+ru.samsung.gamestudio.android-annotation-experimental-1.1.0-5 C:\Users\MrCommand\.gradle\caches\transforms-3\3a3590f5af4fc6d9d6905dcd65e558d0\transformed\annotation-experimental-1.1.0\res
+ru.samsung.gamestudio.android-lifecycle-viewmodel-2.5.1-6 C:\Users\MrCommand\.gradle\caches\transforms-3\62229c05a832ee6a67b18657977c5e23\transformed\lifecycle-viewmodel-2.5.1\res
+ru.samsung.gamestudio.android-lifecycle-runtime-2.5.1-7 C:\Users\MrCommand\.gradle\caches\transforms-3\9e771de97ccc7a903478778f5c80cb67\transformed\lifecycle-runtime-2.5.1\res
+ru.samsung.gamestudio.android-lifecycle-viewmodel-savedstate-2.5.1-8 C:\Users\MrCommand\.gradle\caches\transforms-3\da90d173bb434f935e1c3f7b4ed2f823\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+ru.samsung.gamestudio.android-pngs-9 C:\Users\MrCommand\Desktop\it-school-samsung-module2-topic_8\android\build\generated\res\pngs\release
+ru.samsung.gamestudio.android-resValues-10 C:\Users\MrCommand\Desktop\it-school-samsung-module2-topic_8\android\build\generated\res\resValues\release
+ru.samsung.gamestudio.android-packageReleaseResources-11 C:\Users\MrCommand\Desktop\it-school-samsung-module2-topic_8\android\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+ru.samsung.gamestudio.android-packageReleaseResources-12 C:\Users\MrCommand\Desktop\it-school-samsung-module2-topic_8\android\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+ru.samsung.gamestudio.android-merged_res-13 C:\Users\MrCommand\Desktop\it-school-samsung-module2-topic_8\android\build\intermediates\merged_res\release
+ru.samsung.gamestudio.android-android-14 C:\Users\MrCommand\Desktop\it-school-samsung-module2-topic_8\android\res
+ru.samsung.gamestudio.android-release-15 C:\Users\MrCommand\Desktop\it-school-samsung-module2-topic_8\android\src\release\res

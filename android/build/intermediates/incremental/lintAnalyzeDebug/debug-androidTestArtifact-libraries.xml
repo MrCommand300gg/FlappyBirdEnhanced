@@ -1,0 +1,34 @@
+<libraries>
+  <library
+      name="com.badlogicgames.gdx:gdx-backend-android:1.12.0@aar"
+      jars="C:\Users\MrCommand\.gradle\caches\transforms-3\2f2578fc2ec56343a01f7b255dffa20e\transformed\gdx-backend-android-1.12.0\jars\classes.jar"
+      resolved="com.badlogicgames.gdx:gdx-backend-android:1.12.0"
+      folder="C:\Users\MrCommand\.gradle\caches\transforms-3\2f2578fc2ec56343a01f7b255dffa20e\transformed\gdx-backend-android-1.12.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":@@:core"
+      jars="C:\Users\MrCommand\Desktop\it-school-samsung-module2-topic_8\core\build\libs\core-1.0.jar"
+      resolved="::"/>
+  <library
+      name="com.badlogicgames.gdx:gdx-freetype:1.12.0@jar"
+      jars="C:\Users\MrCommand\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.12.0\5c9ce57d7e95c35dead37f674d23c023c1a4167d\gdx-freetype-1.12.0.jar"
+      resolved="com.badlogicgames.gdx:gdx-freetype:1.12.0"/>
+  <library
+      name="com.badlogicgames.gdx:gdx:1.12.0@jar"
+      jars="C:\Users\MrCommand\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.12.0\8a9080c5e2d441e43a44fbcbf721374a2e0b9dfa\gdx-1.12.0.jar"
+      resolved="com.badlogicgames.gdx:gdx:1.12.0"/>
+  <library
+      name="com.badlogicgames.gdx:gdx-jnigen-loader:2.3.1@jar"
+      jars="C:\Users\MrCommand\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-jnigen-loader\2.3.1\2d472f69243631fbcb3d4c3f93dd2e137a6cb084\gdx-jnigen-loader-2.3.1.jar"
+      resolved="com.badlogicgames.gdx:gdx-jnigen-loader:2.3.1"/>
+  <library
+      name=":@@:android::debug"
+      project=":android"/>
+</libraries>

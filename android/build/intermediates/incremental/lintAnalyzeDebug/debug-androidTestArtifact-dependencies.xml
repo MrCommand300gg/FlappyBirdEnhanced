@@ -1,0 +1,23 @@
+<dependencies>
+  <compile
+      roots=":@@:android::debug,com.badlogicgames.gdx:gdx-backend-android:1.12.0@aar,:@@:core,com.badlogicgames.gdx:gdx-freetype:1.12.0@jar,com.badlogicgames.gdx:gdx:1.12.0@jar,com.badlogicgames.gdx:gdx-jnigen-loader:2.3.1@jar">
+    <dependency
+        name=":@@:android::debug"
+        simpleName="artifacts::android"/>
+    <dependency
+        name="com.badlogicgames.gdx:gdx-backend-android:1.12.0@aar"
+        simpleName="com.badlogicgames.gdx:gdx-backend-android"/>
+    <dependency
+        name=":@@:core"
+        simpleName=":"/>
+    <dependency
+        name="com.badlogicgames.gdx:gdx-freetype:1.12.0@jar"
+        simpleName="com.badlogicgames.gdx:gdx-freetype"/>
+    <dependency
+        name="com.badlogicgames.gdx:gdx:1.12.0@jar"
+        simpleName="com.badlogicgames.gdx:gdx"/>
+    <dependency
+        name="com.badlogicgames.gdx:gdx-jnigen-loader:2.3.1@jar"
+        simpleName="com.badlogicgames.gdx:gdx-jnigen-loader"/>
+  </compile>
+</dependencies>

@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\MrCommand\Desktop\it-school-samsung-module2-topic_8\android"
+    name=":android"
+    type="APP"
+    maven="it-school-samsung-module2-topic_8:android:"
+    agpVersion="8.2.0"
+    buildFolder="build"
+    bootClassPath="C:\Users\MrCommand\AppData\Local\Android\Sdk\platforms\android-34\android.jar;C:\Users\MrCommand\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>

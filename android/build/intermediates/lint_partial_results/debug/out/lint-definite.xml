@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.2.0" type="incidents">
+
+    <incident
+        id="RedundantLabel"
+        severity="warning"
+        message="Redundant label can be removed">
+        <fix-attribute
+            description="Delete label"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="label"/>
+        <location
+            file="${:android*debug*MAIN*sourceProvider*0*manifest*0}"
+            line="18"
+            column="13"
+            startOffset="659"
+            endLine="18"
+            endColumn="45"
+            endOffset="691"/>
+    </incident>
+
+    <incident
+        id="MonochromeLauncherIcon"
+        severity="warning"
+        message="The application adaptive icon is missing a monochrome tag">
+        <location
+            file="${:android*debug*MAIN*sourceProvider*0*resDir*0}/drawable-anydpi-v26/ic_launcher.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="6"
+            endColumn="17"
+            endOffset="272"/>
+    </incident>
+
+</incidents>
